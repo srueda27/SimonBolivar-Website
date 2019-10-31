@@ -1,0 +1,22 @@
+html {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: #eee;
+}
+
+#tribute-info {
+    max-width: 700px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#tribute-p {
+    text-align: center;
+}
+
+#image{
+    max-width: 100%;
+}
