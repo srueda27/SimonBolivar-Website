@@ -11,6 +11,7 @@ main {
 #title {
     font-size: 4em;
     margin-bottom: 0;
+    margin: auto
 }
 
 #subtitle {
@@ -42,4 +43,10 @@ main {
 #img-caption {
     margin-top: 0.5em;
     font-size: 0.9em;
+}
+
+@media screen and (max-width: 600px) {
+    html {
+      background-color: aqua;
+    }
 }
